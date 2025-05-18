@@ -18,10 +18,10 @@ Feel free to reach out or follow me on any of the platforms above!
 
 #### Google Calendar and OpenMeteo Weather app for the Inkplate 4Tempera
 
-<img src="assets/googlecalandopenmeteo.jpeg" alt="project" width="200"/>
+<img src="assets/inkplates.png" alt="project" width="500"/>
 
 #### Ribbit n Rattle
 
-<img src="assets/rnr.png" alt="project2" width="200"/>
+<img src="assets/rnr.png" alt="project2" width="500"/>
 
 
