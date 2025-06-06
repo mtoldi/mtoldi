@@ -7,10 +7,7 @@
 
 ## 🌐 Find Me Online
 
-- 🐦 [Twitter](https://x.com/MarkoToldi_)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marko-toldi-780604264/)  
-
-Feel free to reach out or follow me on any of the platforms above!
 
 ---
 
