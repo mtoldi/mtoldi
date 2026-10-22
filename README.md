@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marko Toldi
 
-💻 Embedded Software Developer @ [Soldered](https://soldered.com)
+💻 Embedded Software Developer
 🎮 Game Developer on the side  
 
 ---
